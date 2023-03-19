@@ -18,7 +18,7 @@ Interface simples de um "sobre mim", desenvolvida em Flutter/Dart. <br/>
 <br>
 
 <p align="center">
-  <img alt="Projeto 01" src="https://user-images.githubusercontent.com/110691699/221421170-77b0905c-5bfe-458d-bf12-90ea01619324.png" width="100%">
+  <img alt="Projeto 01" src="https://user-images.githubusercontent.com/110691699/226186437-ef5b3458-120e-4f4e-bf96-69c919304131.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
